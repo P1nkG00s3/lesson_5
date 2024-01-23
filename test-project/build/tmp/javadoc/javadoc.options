@@ -1,0 +1,8 @@
+-classpath 'C:\\Users\\Гусь\\lesson5\\test-project\\build\\classes\\java\\main;C:\\Users\\Гусь\\lesson5\\test-project\\build\\resources\\main'
+-d 'C:\\Users\\Гусь\\lesson5\\test-project\\build\\docs\\javadoc'
+-doctitle 'test API'
+-notimestamp 
+-quiet 
+-windowtitle 'test API'
+'C:\\Users\\Гусь\\lesson5\\test-project\\src\\main\\java\\testproject\\Aggregator.java'
+'C:\\Users\\Гусь\\lesson5\\test-project\\src\\main\\java\\testproject\\Calculator.java'
